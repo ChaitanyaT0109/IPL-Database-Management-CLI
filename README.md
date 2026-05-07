@@ -1,4 +1,4 @@
-# CRICSTAR - Cricket Management System
+# IPL - Database Management System
 
 ## Viewer Mode
 ### 1. League
